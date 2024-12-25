@@ -1,7 +1,7 @@
 module.exports = {
-  ownerUsernames: ["MOHAMMADNAYAN"],//Your Username
-  ownerNumber: "+8801615298449",//Your Number
-  admin: ["5920596290"], // your id
+  ownerUsernames: ["Emon Hawladar"],//Your Username
+  ownerNumber: "+8801309991724",//Your Number
+  admin: ["5079311859"], // your id
   prefix: "/", // dont change prefix 
   telegramBotToken: "7556401945:AAH_UZdgt0PVWGsYyHgly3QoDzRuAEwlZzQ",//Your Bot Tokens
   imageUrl: "https://i.postimg.cc/WpmJhNVg/received-383729254132460.jpg",//Thumbnail Url
