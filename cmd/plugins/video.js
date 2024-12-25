@@ -6,7 +6,7 @@ module.exports.config = {
   version: "1.0.0",
   permission: 0,
   credits: "Nayan",
-  prefix: true,
+  prefix: 'auto',
   description: "Get various types of videos via inline keyboard",
   category: "media",
   usages: "/video or /videos",
